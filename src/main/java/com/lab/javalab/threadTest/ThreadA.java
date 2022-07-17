@@ -11,5 +11,3 @@ public class ThreadA extends Thread{
         }
     }
 }
-
-https://github.com/akrwkdrrr99/Thread-study1.git
